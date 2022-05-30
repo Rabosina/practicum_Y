@@ -12,6 +12,7 @@
 
 **Ссылка на презентацию:**  https://clck.ru/iL5XQ   
 **Ссылка на дашборд:**  https://clck.ru/iJQgS   
+**Проект с полноценной визуализацией:** https://clck.ru/nwPCb
 
 **Навыки и инструменты**    
 Python, Pandas, Scikit-learn, Matplotlib, Seaborn, машинное обучение, классификация, кластеризация  
